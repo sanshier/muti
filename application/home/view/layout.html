@@ -1,0 +1,25 @@
+{include file="./_layout/header" /}
+<body>
+	<div class="container">
+    	{include file="./_layout/top" /}
+        
+        {__CONTENT__}
+        
+        {include file="./_layout/footer" /}
+    </div>
+</body>
+{js href="__JS__/common.js" /}
+<script>
+	//轮播
+	jQuery(".banner").slide({
+		titCell:".bd ul", 
+		mainCell:".hd ul", 
+		effect:"fade",  
+		autoPlay:true, 
+		autoPage:true, 
+		trigger:"mouseover",
+		easing:"easeInQuad"
+	});
+	jQuery(".picScroll-left").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"left",autoPlay:true,vis:4});
+</script>
+</html>

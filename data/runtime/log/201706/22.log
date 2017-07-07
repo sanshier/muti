@@ -1,0 +1,141 @@
+---------------------------------------------------------------
+[ 2017-06-22T19:20:06+08:00 ] ::1 ::1 GET /
+[ info ] muti.cn/ [运行时间：0.023925s][吞吐率：41.80req/s] [内存消耗：1,848.84kb] [文件加载：25]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; pgv_si=s9629334528',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-22T19:21:53+08:00 ] ::1 ::1 GET /
+[ info ] muti.cn/ [运行时间：0.021387s][吞吐率：46.76req/s] [内存消耗：1,848.84kb] [文件加载：25]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; pgv_si=s9629334528',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-22T19:21:54+08:00 ] ::1 ::1 GET /
+[ info ] muti.cn/ [运行时间：0.020247s][吞吐率：49.39req/s] [内存消耗：1,848.84kb] [文件加载：25]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; pgv_si=s9629334528',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-22T19:22:44+08:00 ] ::1 ::1 GET /
+[ info ] muti.cn/ [运行时间：0.038412s][吞吐率：26.03req/s] [内存消耗：3,187.35kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; pgv_si=s9629334528',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\muti\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002305s ] mysql:dbname=;host=127.0.0.1;charset=utf8
+[ error ] [10501]SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected[C:\wamp64\www\muti\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2017-06-22T19:23:30+08:00 ] ::1 ::1 GET /
+[ info ] muti.cn/ [运行时间：0.033117s][吞吐率：30.20req/s] [内存消耗：1,947.10kb] [文件加载：29]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; pgv_si=s9629334528',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\muti\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]dirname() expects exactly 1 parameter, 3 given[C:\wamp64\www\muti\thinkphp\library\think\Build.php:198]

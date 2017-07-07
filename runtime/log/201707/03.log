@@ -1,0 +1,1257 @@
+---------------------------------------------------------------
+[ 2017-07-03T13:22:19+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.918920s][吞吐率：1.09req/s] [内存消耗：3,864.98kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T13:22:27+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.061967s][吞吐率：16.14req/s] [内存消耗：3,864.87kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:10:27+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.062579s][吞吐率：15.98req/s] [内存消耗：3,864.98kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:12:10+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.089731s][吞吐率：11.14req/s] [内存消耗：3,887.34kb] [文件加载：54]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant Session - assumed 'Session'[C:\wamp64\www\muti\application\admin\controller\Base.php:33]
+---------------------------------------------------------------
+[ 2017-07-03T14:48:52+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.056831s][吞吐率：17.60req/s] [内存消耗：3,864.98kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:49:01+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.047000s][吞吐率：21.28req/s] [内存消耗：3,864.98kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:50:47+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.056195s][吞吐率：17.80req/s] [内存消耗：3,864.99kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:51:53+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.049078s][吞吐率：20.38req/s] [内存消耗：3,864.98kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:54:00+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.060894s][吞吐率：16.42req/s] [内存消耗：3,865.48kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:54:05+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.048006s][吞吐率：20.83req/s] [内存消耗：3,865.48kb] [文件加载：52]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]类的属性不存在:app\admin\model\Admin->administrator[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T14:56:50+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.190086s][吞吐率：5.26req/s] [内存消耗：5,258.04kb] [文件加载：61]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001766s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.001778s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000488s ]
+[ error ] [0]模板文件不存在:C:\wamp64\www\muti\public/../application/admin\view\index\login.html[C:\wamp64\www\muti\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-07-03T14:57:51+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.071840s][吞吐率：13.92req/s] [内存消耗：5,258.09kb] [文件加载：61]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001356s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.005473s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000490s ]
+[ error ] [0]模板文件不存在:C:\wamp64\www\muti\public/../application/admin\view\login\login.html[C:\wamp64\www\muti\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-07-03T14:58:01+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.239109s][吞吐率：4.18req/s] [内存消耗：5,563.24kb] [文件加载：63]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\muti\public/../application/admin\view\login\index.html [ array (
+  0 => 'set_lang',
+  1 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001357s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.001562s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000509s ]
+---------------------------------------------------------------
+[ 2017-07-03T14:58:02+08:00 ] ::1 ::1 GET /admin.php/captcha
+[ info ] muti.cn/admin.php/captcha [运行时间：0.150235s][吞吐率：6.66req/s] [内存消耗：3,320.05kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T14:58:18+08:00 ] ::1 ::1 GET /admin.php/captcha?=r0.5973858690770206
+[ info ] muti.cn/admin.php/captcha?=r0.5973858690770206 [运行时间：0.045695s][吞吐率：21.88req/s] [内存消耗：3,320.09kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T14:58:23+08:00 ] ::1 ::1 POST /admin.php/login/doLogin
+[ info ] muti.cn/admin.php/login/doLogin [运行时间：0.048385s][吞吐率：20.67req/s] [内存消耗：3,966.93kb] [文件加载：54]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'doLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'content-length' => '43',
+  'origin' => 'http://muti.cn',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+  'password' => '123456',
+  'captcha' => 'qs7pt',
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ C:\wamp64\www\muti\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: username[C:\wamp64\www\muti\application\admin\controller\Login.php:45]
+---------------------------------------------------------------
+[ 2017-07-03T14:59:33+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.077347s][吞吐率：12.93req/s] [内存消耗：5,292.83kb] [文件加载：60]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\muti\public/../application/admin\view\login\index.html [ array (
+  0 => 'set_lang',
+  1 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002302s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.001380s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000487s ]
+---------------------------------------------------------------
+[ 2017-07-03T14:59:33+08:00 ] ::1 ::1 GET /admin.php/captcha
+[ info ] muti.cn/admin.php/captcha [运行时间：0.067913s][吞吐率：14.72req/s] [内存消耗：3,319.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T14:59:43+08:00 ] ::1 ::1 POST /admin.php/login/doLogin
+[ info ] muti.cn/admin.php/login/doLogin [运行时间：0.101364s][吞吐率：9.87req/s] [内存消耗：5,448.41kb] [文件加载：62]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'doLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'content-length' => '43',
+  'origin' => 'http://muti.cn',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+  'password' => '123456',
+  'captcha' => 'aqaau',
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ C:\wamp64\www\muti\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001330s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_admin` [ RunTime:0.001175s ]
+[ sql ] [ SQL ] SELECT * FROM `mt_admin` WHERE (  `account` = 'admin' ) AND `mt_admin`.`deletetime` IS NULL LIMIT 1 [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.000967s ]
+[ error ] [0]类的属性不存在:app\admin\model\Admin->id[C:\wamp64\www\muti\thinkphp\library\think\Model.php:559]
+---------------------------------------------------------------
+[ 2017-07-03T15:01:18+08:00 ] ::1 ::1 GET /admin.php
+[ info ] muti.cn/admin.php [运行时间：0.085922s][吞吐率：11.64req/s] [内存消耗：5,292.83kb] [文件加载：60]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\muti\public/../application/admin\view\login\index.html [ array (
+  0 => 'set_lang',
+  1 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010389s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.001563s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000885s ]
+---------------------------------------------------------------
+[ 2017-07-03T15:01:18+08:00 ] ::1 ::1 GET /admin.php/captcha
+[ info ] muti.cn/admin.php/captcha [运行时间：0.057793s][吞吐率：17.30req/s] [内存消耗：3,319.88kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T15:01:28+08:00 ] ::1 ::1 POST /admin.php/login/doLogin
+[ info ] muti.cn/admin.php/login/doLogin [运行时间：0.107046s][吞吐率：9.34req/s] [内存消耗：5,500.83kb] [文件加载：63]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'doLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'content-length' => '43',
+  'origin' => 'http://muti.cn',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+  'password' => '123456',
+  'captcha' => 'xylxk',
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ C:\wamp64\www\muti\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001439s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_admin` [ RunTime:0.005121s ]
+[ sql ] [ SQL ] SELECT * FROM `mt_admin` WHERE (  `account` = 'admin' ) AND `mt_admin`.`deletetime` IS NULL LIMIT 1 [ RunTime:0.000658s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.001838s ]
+[ sql ] [ SQL ] INSERT INTO `mt_log_record` (`remark` , `ip` , `user_id` , `browser` , `os`) VALUES ('登录成功' , '::1' , 1 , 'chrome-59' , 'Windows 10') [ RunTime:0.000685s ]
+---------------------------------------------------------------
+[ 2017-07-03T15:01:28+08:00 ] ::1 ::1 GET /admin.php/captcha?=r0.6475737391785501
+[ info ] muti.cn/admin.php/captcha?=r0.6475737391785501 [运行时间：0.056095s][吞吐率：17.83req/s] [内存消耗：3,320.12kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T15:01:28+08:00 ] ::1 ::1 GET /admin.php/index/index
+[ info ] muti.cn/admin.php/index/index [运行时间：0.097117s][吞吐率：10.30req/s] [内存消耗：5,293.68kb] [文件加载：60]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\muti\public/../application/admin\view\login\index.html [ array (
+  0 => 'set_lang',
+  1 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001762s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.007983s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000376s ]
+---------------------------------------------------------------
+[ 2017-07-03T15:01:28+08:00 ] ::1 ::1 GET /admin.php/captcha
+[ info ] muti.cn/admin.php/captcha [运行时间：0.066688s][吞吐率：15.00req/s] [内存消耗：3,319.89kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T15:08:16+08:00 ] ::1 ::1 GET /admin.php/index/index
+[ info ] muti.cn/admin.php/index/index [运行时间：0.078215s][吞吐率：12.79req/s] [内存消耗：5,294.01kb] [文件加载：60]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\muti\public/../application/admin\view\login\index.html [ array (
+  0 => 'set_lang',
+  1 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001591s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.001581s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000255s ]
+---------------------------------------------------------------
+[ 2017-07-03T15:08:17+08:00 ] ::1 ::1 GET /admin.php/captcha
+[ info ] muti.cn/admin.php/captcha [运行时间：0.059807s][吞吐率：16.72req/s] [内存消耗：3,320.09kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T15:08:26+08:00 ] ::1 ::1 POST /admin.php/login/doLogin
+[ info ] muti.cn/admin.php/login/doLogin [运行时间：0.082116s][吞吐率：12.18req/s] [内存消耗：5,500.81kb] [文件加载：63]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'doLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'content-length' => '43',
+  'origin' => 'http://muti.cn',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://muti.cn/admin.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+  'password' => '123456',
+  'captcha' => 'ck82j',
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ C:\wamp64\www\muti\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001387s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_admin` [ RunTime:0.001583s ]
+[ sql ] [ SQL ] SELECT * FROM `mt_admin` WHERE (  `account` = 'admin' ) AND `mt_admin`.`deletetime` IS NULL LIMIT 1 [ RunTime:0.000781s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.001288s ]
+[ sql ] [ SQL ] INSERT INTO `mt_log_record` (`remark` , `ip` , `user_id` , `browser` , `os`) VALUES ('登录成功' , '::1' , 1 , 'chrome-59' , 'Windows 10') [ RunTime:0.000771s ]
+---------------------------------------------------------------
+[ 2017-07-03T15:08:26+08:00 ] ::1 ::1 GET /admin.php/index/index
+[ info ] muti.cn/admin.php/index/index [运行时间：0.079372s][吞吐率：12.60req/s] [内存消耗：5,293.12kb] [文件加载：60]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\wamp64\www\muti\public/../application/admin\lang\zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => '',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\muti\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\muti\public/../application/admin\view\login\index.html [ array (
+  0 => 'set_lang',
+  1 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001226s ] mysql:dbname=muti;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mt_log_record` [ RunTime:0.009486s ]
+[ sql ] [ SQL ] SELECT `ip` FROM `mt_log_record` [ RunTime:0.000351s ]
+---------------------------------------------------------------
+[ 2017-07-03T15:08:26+08:00 ] ::1 ::1 GET /admin.php/captcha?=r0.3149030966271431
+[ info ] muti.cn/admin.php/captcha?=r0.3149030966271431 [运行时间：0.119224s][吞吐率：8.39req/s] [内存消耗：3,320.07kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-03T15:08:26+08:00 ] ::1 ::1 GET /admin.php/captcha
+[ info ] muti.cn/admin.php/captcha [运行时间：0.061022s][吞吐率：16.39req/s] [内存消耗：3,319.96kb] [文件加载：40]
+[ info ] [ LANG ] C:\wamp64\www\muti\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'muti.cn',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://muti.cn/admin.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1375149056; PHPSESSID=1qaf2698igcp8v19fjnnn5s8b6',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\wamp64\www\muti\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File

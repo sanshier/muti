@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>木梯发布任务</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!--<link rel="Shortcut Icon" href="favicon.ico" />地址栏和标签上显示图标-->
+<!--<link rel="Bookmark" href="favicon.ico" />收藏夹显示图标-->
+<link href="css/base.css" rel="stylesheet" type="text/css" />
+<link href="css/css3.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.7.2.min.js" ></script>
+<script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+<script language="javascript" type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+  <!--[if IE 6]> 
+<script src="js/iepng.js" type="text/javascript"></script> 
+<script type="text/javascript">
+   EvPNG.fix('div, ul, img, li, input,a,span'); 
+</script>
+<![endif]-->
+</head>
+<body>
+	<div class="container">
+    	<!--head-->
+        <header>
+        	<div class="head">
+            	<div class="container2 head_top">
+                	<div class="fl head_left"><h3 class="fl">miuti35</h3><a href="javascript:void(0);">退出</a></div>
+                    <div class="fr head_right">
+                    	<a href="javascript:void(0);">消息</a><a href="javascript:void(0);">我的木梯</a>
+                        <a href="javascript:void(0);" class="release">发布任务</a>
+                        <a href="javascript:void(0);" class="release">我要接单</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="head_member">
+            	<div class="container2">
+                	<a href="javascript:void(0);"><img src="images/logo1.png" width="174" class="mrgT10 fl" /></a>
+                    <h3 class="fl mrgL15">会员中心</h3>
+                    <h1 class="fl">发布任务</h1>
+                </div>
+            </div>
+        </header>
+        <!--head end-->
+        <!--发布任务-->
+		<div class="mission container2">
+        	<div class="mission_left fl">
+            	<div class="user mrgB10">
+                	<div class="user_img"><img src="###" width="100%" /></div>
+                    <h3 class="texC">miuti35</h3>
+                </div>
+                <div class="mission_list">
+                	<h3 class="texC mrgB10">个人中心<img class="mrgL10" src="images/icon_13.png" width="14" /></h3>
+                    <ul>
+                    	<li><a href="javascript:void(0);">基本信息</a><span> >> </span></li>
+                        <li><a href="javascript:void(0);">认证信息</a><span> >> </span></li>
+                        <li><a href="javascript:void(0);">安全设置</a><span> >> </span></li>
+                    </ul>
+                    <h3 class="texC mrgB10 mrgT20">任务中心<img class="mrgL10" src="images/icon_13.png" width="14" /></h3>
+                    <ul>
+                    	<li class="on"><a href="javascript:void(0);">发布任务</a><span> >> </span></li>
+                        <li><a href="javascript:void(0);">我的任务</a><span> >> </span></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="issue_tasks_right fr">
+                <input type="hidden" value="0" id="inp" />
+				<div class="step">
+                	<ul>
+                    	<li class="on"><a href="javascript:void(0);"><h3 class="mrgT5 mrgB25">选择类目</h3><img class="img_1" src="images/step1.png" width="175" /><img class="img_2" src="images/step1_1.png" width="175" /></a></li>
+                        <li><a href="javascript:void(0);"><h3 class="mrgT5 mrgB25">描述需求</h3><img class="img_1" src="images/step2.png" width="175" /><img class="img_2" src="images/step2_1.png" width="175" /></a></li>
+                        <li><a href="javascript:void(0);"><h3 class="mrgT5 mrgB25">设置价格预算</h3><img class="img_1" src="images/step3.png" width="175" /><img class="img_2" src="images/step3_1.png" width="175" /></a></li>
+                        <li><a href="javascript:void(0);"><h3 class="mrgT5 mrgB25">确认需求</h3><img class="img_1" src="images/step4.png" width="175" /><img class="img_2" src="images/step4_1.png" width="175" /></a></li>
+                        <li><a href="javascript:void(0);"><h3 class="mrgT5 mrgB25">支付保证金</h3><img class="img_1" src="images/step5.png" width="175" /><img class="img_2" src="images/step5_1.png" width="175" /></a></li>
+                    </ul>
+                </div>
+                <p class="texC mrgT40">让世界自由沟通，打造全球最大商旅服务平台</p>
+                
+                <!-- 第一步 -->
+                <div class="first_steps progress" style="display:block" id="0">
+                    <div class="lookup">
+                    	<input class="lookup_inp mrgL30 fl" type="text" placeholder="" /><input class="fl mrgL10 lookup_button" type="button" value="搜索" />
+                        <div class="fl lookup_link">
+                        	<a href="javascript:void(0);">翻译</a><span></span><a href="javascript:void(0);">司导</a><span></span><a href="javascript:void(0);">待办事</a><span></span><a href="javascript:void(0);">私人订制</a>
+                        </div>
+                    </div>
+                    
+                    <div class="lookup_list">
+                    	<ul>
+                        	<li class="-active"><a href="javascrpt:void(0);">普 通 陪 同</a></li>
+                            <li><a href="javascrpt:void(0);">高 级 翻 译</a></li>
+                            <li><a href="javascrpt:void(0);">专 业 翻 译</a></li>
+                            <li><a href="javascrpt:void(0);">职 业 翻 译</a></li>
+                            <li><a href="javascrpt:void(0);">在 线 人 工 翻 译</a></li>
+                            <li><a href="javascrpt:void(0);">笔 译</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 第一步 结束--> 
+
+                <!-- 第二步 -->
+                <div class="second_steps progress" style="display:none;" id="1">
+                    <div class="demand_box">
+                        <div class="second_title">你选择了：<input type="text" name="" value="翻译-普通服务"> <a href="javascript:void(0);">修改</a></div>
+                        <div class="second_content">
+                            <ul>
+                                <li>
+                                    <h3 class="fl">任务主题：</h3>
+                                    <div class="fl second_content_right task_theme">
+                                        <ul>
+                                            <li><input type="checkbox" name="" />展会陪同</li>
+                                            <li><input type="checkbox" name="" />日常陪同</li>
+                                            <li><input type="checkbox" name="" />商务陪同</li>
+                                            <li><input type="checkbox" name="" />会议谈判</li>
+                                            <li><input type="checkbox" name="" />法律陪同</li>
+                                            <li><input type="checkbox" name="" />医疗陪同</li>
+                                            <li><input type="checkbox" name="" />移民陪同</li>
+                                            <li><input type="checkbox" name="" />游学陪同</li>
+                                            <li><input type="checkbox" name="" />同声传译</li>
+                                            <li><input type="checkbox" name="" />交替传译</li>
+                                            <li><input type="checkbox" name="" />电话翻译</li>
+                                            <li><input type="checkbox" name="" />视频翻译</li>
+                                            <li><input type="checkbox" name="" />专业文件笔译</li>
+                                            <li><input type="checkbox" name="" />手册笔译</li>
+                                            <li><input type="checkbox" name="" />说明书笔译</li>
+                                            <li><input type="checkbox" name="" />合同笔译</li>
+                                            <li><input type="checkbox" name="" />产品介绍笔译</li>
+                                            <li><input type="checkbox" name="" />其他</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">行业属性：</h3>
+                                    <div class="fl second_content_right industry_attribute">
+                                        <select name="" value>
+                                            <option>建材/石材/照明/暖通</option>
+                                        </select>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">服务时间：</h3>
+                                    <div class="fl second_content_right service_time">
+                                        <input type="text" placeholder="服务时间" onClick="WdatePicker()" id="" name="empty_time" class="ship_inp" />
+                                        <input type="text" placeholder="几点" class="" style="width: 38px;text-align: center;" /><span style="margin:0 5px;">时</span><input type="text" placeholder="几分" class="mrgR5" style="width: 38px;text-align: center;" />分
+                                        <span style="margin:0 10px;">至</span>
+                                        <input type="text" placeholder="服务时间" onClick="WdatePicker()" id="" name="empty_time" class="ship_inp" />
+                                        <input type="text" placeholder="几点" class="" style="width: 38px;text-align: center;" /><span style="margin:0 5px;">时</span><input type="text" placeholder="几分" class="mrgR5" style="width: 38px;text-align: center;" />分
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">起始地点：</h3>
+                                    <div class="fl second_content_right address">
+                                        <select name="" value>
+                                            <option>德国</option>
+                                        </select>
+                                        <select name="" value>
+                                            <option>科隆</option>
+                                        </select>
+                                        <input type="text" name="" placeholder="详细地址描述">
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">结束地点：</h3>
+                                    <div class="fl second_content_right address">
+                                        <select name="" value>
+                                            <option>德国</option>
+                                        </select>
+                                        <select name="" value>
+                                            <option>科隆</option>
+                                        </select>
+                                        <input type="text" name="" placeholder="详细地址描述">
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">一行人数：</h3>
+                                    <div class="fl second_content_right people_number">
+                                        <input type="text" placeholder="几名" />
+                                        <span>成年男性</span>
+                                        <input type="text" placeholder="几名" />
+                                        <span>成年女性</span>
+                                        <input type="text" placeholder="几名" />
+                                        <span>儿童</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">语言能力：</h3>
+                                    <div class="fl second_content_right language">
+                                        <select name="" value>
+                                            <option>中文</option>
+                                        </select>
+                                        <select name="" value>
+                                            <option>精通</option>
+                                        </select>
+                                        <span>（必填）</span>
+                                        <br />
+                                        <input type="text" name="" placeholder="德国">
+                                        <select name="" value>
+                                            <option>精通</option>
+                                        </select>
+                                        <br />
+                                        <input type="text" name="" placeholder="德国">
+                                        <select name="" value>
+                                            <option>精通</option>
+                                        </select>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">会开车：</h3>
+                                    <div class="fl second_content_right drive_car">
+                                        <input type="radio" name="car" class="mrgR5">是<input type="radio" name="car" class="mrgL15 mrgR5">否
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">需要带车：</h3>
+                                    <div class="fl second_content_right">
+                                        <input type="radio" name="che" class="mrgR5">是<input type="radio" name="che" class="mrgL15 mrgR5">否
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">汽车车型：</h3>
+                                    <div class="fl second_content_right models">
+                                        <input type="text" name="" placeholder="商务车" style="width: 140px;" class="mrgR10" />-<input type="text" name="" placeholder="几座" style="width: 50px;" class="mrgR10 mrgL10" /><span class="mrgR10">座位</span>
+                                        <input type="radio" name="zy" class="mrgR5">需要儿童座椅<input type="text" name="" placeholder="几" style="width: 34px;text-align: center;" class="mrgR10 mrgL10" />个
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">用车类型：</h3>
+                                    <div class="fl second_content_right">
+                                        <input type="radio" name="lx" class="mrgR5">仅接受<input type="radio" name="lx" class="mrgL15 mrgR5">全程用车
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">出发时间：</h3>
+                                    <div class="fl second_content_right service_time">
+                                        <input type="text" placeholder="服务时间" onClick="WdatePicker()" id="" name="empty_time" class="ship_inp" />
+                                        <input type="text" placeholder="几点" class="" style="width: 38px;text-align: center;" /><span style="margin:0 5px;">时</span><input type="text" placeholder="几分" class="mrgR5" style="width: 38px;text-align: center;" />分
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3 class="fl">出发地点：</h3>
+                                    <div class="fl second_content_right address">
+                                        <select name="" value>
+                                            <option>德国</option>
+                                        </select>
+                                        <select name="" value>
+                                            <option>科隆</option>
+                                        </select>
+                                        <input type="text" name="" placeholder="玛丽蒂姆科隆酒店 Maritim Hotel Cologne">
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="box_bottom">
+                        <div class="remarks">
+                            <textarea class="fr" placeholder="请描述一下您的具体工作安排内容或者类似希望翻译有多次展会翻译经验：翻译需要熟悉某行业相关的专业名词等特殊需求"></textarea>
+                            <h3 class="fr">备注：</h3>
+                        </div>
+                        <div class="file">
+                            <a class="fr">添加附件<input type="file" name="" class="fr"></a>
+                            <span class="fr">最多可添加五个附件，每个大小不超过10M</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- 第二步 结束-->
+
+                <!-- 第三步-->
+                <div class="third_steps progress" style="display: none;" id="2">
+                    <ul>
+                        <li>
+                            <h3>设置您的价格预算</h3>
+                            <div class="third_main texC">
+                                <img src="images/icon_28.png" class="fl" /><input class="fl mrgT40 mrgL20" type="text" name="" />
+                                <div class="clear"></div>
+                                <div class="third_p">明确的预算更能吸引译员的参与</div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>任务发布截至日期</h3>
+                            <div class="third_main texC">
+                                <img src="images/icon_29.png" class="fl" /><input class="fl mrgT40 mrgL20" type="text" name="" placeholder="截止日期" />
+                                <div class="clear"></div>
+                                <div class="third_p" style="letter-spacing: 2px;">您希望任务在什么日期以前被译员接任</div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <!-- 第三步 结束-->
+
+                <!-- 第四步-->
+                <div class="fouth_box progress" style="display: none;" id="3">
+                    <div class="fourth_steps">
+                        <h3>您的任务需求</h3>
+                        <div class="fourth_list">
+                            <ul>
+                                <li><h1 class="fl">需求类型：</h1>翻译-展会陪同</li>
+                                <li><h1 class="fl">任务标题：</h1>德国展会翻译</li>
+                                <li><h1 class="fl">任务时间：</h1>2017年10月7日9:00至2017年10月11日17:00</li>
+                                <li><h1 class="fl">任务地点：</h1>德国科隆</li>
+                                <li><h1 class="fl">一行人数：</h1>3名成年男性</li>
+                                <li><h1 class="fl">语言能力：</h1>德语精通；英语熟练；普通话母语</li>
+                                <li><h1 class="fl">需要带车：</h1>否</li>
+                                <li><h1 class="fl">备注：</h1>需要译员德语精通，英语熟练，有翻译经验，最好是女性</li>
+                                <li><h1 class="fl">联系方式：</h1>13588362189</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="agree">
+                        <input type="checkbox" name="agree" />同意并遵守《<a href="release-rule.html">木梯商务任务发布规则</a>》
+                    </div>
+                </div>
+                <!-- 第四步 结束-->
+
+                <!-- 第五步-->
+                <div class="fifth_steps progress" style="display:none;" id="4">
+                    <h3><img src="images/icon_33.png" class="fl mrgR15" />收银台</h3>
+                    <div class="payment_list mrgT35">
+                        <h1 class="texC">您可以通过以下三种方式进行支付：</h1>
+                        <ul>
+                            <li><a href="javascript:void(0);"><img src="images/icon_30.png" /></a></li>
+                            <li><a href="javascript:void(0);"><img src="images/icon_31.png" /></a></li>
+                            <li style="border:none;"><a href="javascript:void(0);"><img src="images/icon_32.png" /></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 第五步 结束-->
+            </div>
+        </div>
+        <!--我的任务-->
+        <div class="container2" >
+            <div class="steps" style="display:none;">
+                <a class="prve_step" href="javascript:void(0);">上一步</a>
+                <a class="next_step" href="javascript:void(0);">下一步</a>
+                <a style="display: none;" class="releases" href="javascript:void(0);">发  布</a>
+                <a style="display: none;" class="payment" href="javascript:void(0);">支  付</a>
+            </div>
+        </div>
+
+        <!--footer-->
+        <footer class="footer">
+            <div class="foot" style="height:258px;background:#7d7d7d;color:#fff;border-top:1px solid #7d7d7d;">
+                <div class="container2 footer_list">
+                    <div class="fl contact foot_list">
+                        <h3>联系我们</h3>
+                        <ul>
+                            <li><h1 class="fl">国内：</h1><p class="fl">13616535028；15869163888</p></li>
+                            <li><h1 class="fl">国外：</h1><p class="fl">+8613616535028；+8615869163888</p></li>
+                            <li><h1 class="fl">服务时间：</h1><p class="fl">7*24小时</p></li>
+                            <li><h1 class="fl">邮箱：</h1><p class="fl">mtys@muti35.com</p></li>
+                            <li><h1 class="fl">地址：</h1><p class="fl">浙江省杭州市西湖区杭州市西湖区文一西路75号1号楼五层506室</p></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="fl company_profile foot_list">
+                        <h3 class="texC">公司简介</h3>
+                        <div class="main">杭州木梯商务服务有限公司——木梯商务以翻译为基础服务，通过遍布全球的近万名译员及司导，为出境的华人企业、商务人士或游客，提供翻译、司机/导游服务，其中包括：笔译、口译、商务陪同、包车、接送机、司机、司机兼导游等专业服务，最终实现全球的华人网络综合服务平台。</div>
+                    </div>
+                    
+                    <div class="fr concern foot_list">
+                        <h3 class="texC">关注我们</h3>
+                        <ul class="">
+                            <li class="fl"><img src="images/icon.png" width="36" class="mrgB10" /><img src="images/icon_2.png" width="100%" /></li>
+                            <li class="fr"><img src="images/icon_1.png" width="36" class="mrgB10" /><img src="images/icon_3.png" width="100%" /></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="foot_bottom">
+                <div class="foot_link texC">
+                    <a href="javascript:void(0);">帮助中心</a>
+                    <a href="javascript:void(0);">关于我们</a>
+                    <a href="javascript:void(0);">联系我们</a>
+                    <a href="javascript:void(0);">服务条款</a>
+                    <a href="javascript:void(0);">免责声明</a>
+                    <a href="javascript:void(0);">加入我们</a>
+                    <a href="javascript:void(0);">媒体中心</a>
+                </div>
+                <p class="texC mrgT10">版权所有©杭州木梯商务服务有限公司  Hangzhou MT-multi Biz Co.,Ltd</p>
+                <p class="texC mrgT5">浙ICP备16030130号</p>
+            </div>
+        </footer>
+        <!--footer end-->
+    </div>	
+</body>
+<script type="text/javascript" src="js/common.js" ></script>
+</html>

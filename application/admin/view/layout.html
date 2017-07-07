@@ -1,0 +1,28 @@
+{include file="./_layout/header" /} 
+
+<body class="app header-fixed sidebar-fixed aside-menu-fixed aside-menu-hidden">
+    {include file="./_layout/top" /}
+    <div class="app-body">
+        {include file="./_layout/sidebar" /}
+        <!-- Main content -->
+        <main class="main">
+            {__CONTENT__}
+        </main>
+
+    </div>
+    {include file="./_layout/footer" /}
+	<!-- Bootstrap and necessary plugins -->
+    {js href="__LIB__/bootstrap3/js/bootstrap.min.js" /}  
+	{js href="__JS__/plugins/metisMenu/jquery.metisMenu.js" /}
+	{js href="__JS__/plugins/slimscroll/jquery.slimscroll.min.js" /}
+	{js href="__JS__/bootstrap-table.js" /}
+	{js href="__JS__/main.js" /}
+	{js href="__JS__/gridview.js" /}
+    {js href="__JS__/jquery.validate.min.js" /}
+	{js href="__JS__/<?php echo \think\Lang::detect();?>.js" /}
+    
+    <!-- GenesisUI main scripts -->
+    {js href="__JS__/app.js" /}
+    {js href="__JS__/plugins/pace/pace.min.js" /}
+</body>
+</html>

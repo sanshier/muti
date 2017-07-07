@@ -1,0 +1,44 @@
+
+/*服务列表*/
+.service_list{width:902px;margin:0 auto;overflow:hidden;margin-top:67px;}
+.service_list ul{width:113%;}
+.service_list li{float:left;width:160px;height:285px;border-top:8px solid #ec6617;border-bottom:8px solid #ec6617;margin-right:87px;}
+.list_icon{width:99px;height:99px;overflow:hidden;margin:0 auto;margin-bottom:15px;position:relative;}
+.list_icon .img_1{position:absolute;top:0px;left:0px;}
+.list_icon .img_2{position:absolute;top:99px;left:0px;}
+.service_list li a{display:block;height:285px;color:#000;}
+.service_list li:hover h1{color:#ec6617;}
+.service_list li a h1{font-size:24px;font-weight:600;line-height:60px;margin-bottom:15px;color:#ec6617;}
+.service_list li p{color:#6b6968;font-size:14px;margin-top:10px;text-align: left;}
+.service_list li p span{margin:0 10px;}
+/*小梯推荐*/
+.recommend{height:490px;background:#eee;margin-top:65px;}
+.recommend h3{padding-top:36px;margin-bottom:54px;}
+.picScroll-left .bd{margin-left:70px;}
+.picScroll-left .bd li{height:330px;width:216px;border:1px solid #818181;float:left;margin-left:37px;position:relative;}
+.picScroll-left{position:relative;height:332px;}
+.picScroll-left .hd a{position:absolute;top:50%;margin-top:-35px; }
+.picScroll-left .hd .next{right:45px;}
+.picScroll-left .hd .prev{left:45px;}
+.recommend_tu{position:absolute;left:-2px;top:0px;width:219px;height:120px;background:#4b4a4a;overflow:hidden;}
+.recommend_list p{padding:0 15px;color:#080102;font-size:13px;line-height:20px;height:160px;overflow:hidden;}
+.recommend_list h1{margin-top:135px;padding:0 15px;color:#231815;font-size:14px;margin-bottom:5px;font-weight:600;}
+/*我们的优势*/
+.advantage{padding-top:46px;padding-bottom:47px;}
+.advantage h3{font-size:30px;color:#221815;font-weight:600;}
+.advantage p{color:#231815;font-size:15px;}
+.advantage_list{overflow:hidden;height:158px;}
+.advantage_list ul{width:104%;}
+.advantage_list li{float:left;width:24%;border-right:1px dashed #535353;height:158px;text-align:center;}
+.advantage_list li img{margin-top:6px;}
+.advantage_list li h1{font-weight:600;font-size:18px;margin-top:3px;}
+.advantage_list li .advantage_word{font-size:14px;text-align:left;width:230px;margin:0 auto;line-height:20px;margin-top:10px;}
+.advantage_list li:hover{ cursor:pointer;}
+
+/*banner*/
+#banner{width:100%;height:560px;overflow:hidden;position:relative;z-index:9;}
+#banner ul li{width:100%;height:560px;margin:0px auto;position:relative;}
+#banner ul li img{display:block;position:absolute;top:50%;left:50%;margin-left:-960px;margin-top:-280px;}
+#banner .bd{position:absolute;bottom:20px;right:100px;z-index:100;}
+#banner .bd li{width:10px;height:10px;float:left;border:1px solid #ec6617;line-height:1000px;border-radius:50%;margin:10px;}
+#banner .bd li.on{background:#fff;}
