@@ -22,6 +22,7 @@ class Admin extends Base
      */
     public function index()
     {
+        echo THINK_VERSION;
         return view();
     }
 
