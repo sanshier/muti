@@ -8,6 +8,7 @@ use think\Request;
 use think\Url;
 use think\Session;
 use think\Config;
+use think\Lang;
 
 /**
 * 登录
@@ -20,11 +21,12 @@ class Login extends Common
 	 * 后台登录首页
 	 */
 	public function index()
-	{
-		if( Session::has('userinfo', 'admin') ) {
-			$this->redirect( url('admin/index/index') );
-		}
-		return view();
+	{   
+            Lang::range('zh-cn');            
+            if( Session::has('userinfo', 'admin') ) {
+                    $this->redirect( url('admin/index/index') );
+            }            
+            return view();
 	}
 
 	/**
